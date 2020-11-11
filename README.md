@@ -14,7 +14,7 @@
     - Formado em Bacharel da Ciência da Computação pela FAFIMAN/UNIMAN.
 
 ### Meus Objetivos:
-  - Contribuir com minhas habilidades, tendo compromisso e respeito, objetivando-se sempre o benefício do crescimento da empresa com base nas novas tecnologias. Comprir com todas as atividades destinas a minha pessoa e com todos os códigos de ética da vida profissional e pessoal, assim como os da empresa.
+  - Contribuir com minhas habilidades, tendo compromisso e respeito, objetivando-se sempre o benefício do crescimento da empresa com base nas novas tecnologias. Cumprir com todas as atividades destinas a minha pessoa e com todos os códigos de ética da vida profissional e pessoal, assim como os da empresa.
 
 ### Trabalhos Realizados:
 [![Juliana_Nicolini](https://img.shields.io/website?label=Portf%C3%B3lio%20-%20Jornalista%20-&logo=WordPress&logoColor=pink&style=for-the-badge&up_color=pink&up_message=Juliana%20Nicolini&url=https%3A%2F%2Fjuliananicolini.jor.br%2F)](https://juliananicolini.jor.br/)
