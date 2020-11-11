@@ -10,6 +10,6 @@
 
 ### Trabalhos Realizados
 
-[![Juliana_Nicolini](https://img.shields.io/website?label=Juliana%20Nicolini&logo=WordPress&logoColor=pink&style=for-the-badge&up_color=pink&labelColor=pink&up_message=Acesse&url=https%3A%2F%2Fjuliananicolini.jor.br%2F)](https://juliananicolini.jor.br/)
+[![Juliana_Nicolini](https://img.shields.io/website?logo=WordPress&logoColor=pink&style=for-the-badge&up_color=pink&up_message=Juliana%20Nicolini&url=https%3A%2F%2Fjuliananicolini.jor.br%2F)](https://juliananicolini.jor.br/)
 
 
