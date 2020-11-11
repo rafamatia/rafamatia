@@ -12,4 +12,8 @@
 
 [![Juliana_Nicolini](https://img.shields.io/website?label=Portf%C3%B3lio%20-%20Jornalista%20-&logo=WordPress&logoColor=pink&style=for-the-badge&up_color=pink&up_message=Juliana%20Nicolini&url=https%3A%2F%2Fjuliananicolini.jor.br%2F)](https://juliananicolini.jor.br/)
 
+[![Novos_Olhares](https://img.shields.io/website?label=website%20-%20Portal%20de%20Not%C3%ADcias&logo=WordPress&logoColor=black&style=for-the-badge&up_color=%232E64FE&up_message=Novos%20Olhares&url=https%3A%2F%2Fwww.novosolhares.com%2F)](https://www.novosolhares.com/)
+
+
+
 
