@@ -15,6 +15,15 @@
 
 ### Meus Objetivos:
   - Contribuir com minhas habilidades, tendo compromisso e respeito, objetivando-se sempre o benefício do crescimento da empresa com base nas novas tecnologias. Cumprir com todas as atividades destinas a minha pessoa e com todos os códigos de ética da vida profissional e pessoal, assim como os da empresa.
+  
+### Skills
+![sk_delphi](https://img.shields.io/badge/Delphi-brightgreen)
+![sk_wordpress](https://img.shields.io/badge/WordPress-brightgreen)
+![sk_fastreport](https://img.shields.io/badge/FastReport-brightgreen)
+![sk_reportbuilder](https://img.shields.io/badge/ReportBuilder-brightgreen)
+![sk_firebird](https://img.shields.io/badge/Firebird-brightgreen)
+![sk_MySQL](https://img.shields.io/badge/MySQL-brightgreen)
+![sk_postgresql](https://img.shields.io/badge/PostgreSQL-brightgreen)
 
 ### Trabalhos Realizados:
 [![Juliana_Nicolini](https://img.shields.io/website?label=Portf%C3%B3lio%20-%20Jornalista%20-&logo=WordPress&logoColor=pink&style=for-the-badge&up_color=pink&up_message=Juliana%20Nicolini&url=https%3A%2F%2Fjuliananicolini.jor.br%2F)](https://juliananicolini.jor.br/)
