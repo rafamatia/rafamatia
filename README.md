@@ -18,7 +18,7 @@ Rafael em sua vida profissional tem como objetivo contribuir com suas habilidade
 
 Fora do desenvolvimento, Rafael gosta de aprender novas tecnologias, ama viajar, conhecer lugares, pessoas e culturas diferentes.
  
-# Tecnologias e Ferramentas
+# Tecnologias e Ferramentas ⚙
 ![sk_delphi](https://img.shields.io/badge/Delphi-brightgreen)
 ![sk_wordpress](https://img.shields.io/badge/WordPress-brightgreen)
 ![sk_fastreport](https://img.shields.io/badge/FastReport-brightgreen)
@@ -27,7 +27,7 @@ Fora do desenvolvimento, Rafael gosta de aprender novas tecnologias, ama viajar,
 ![sk_MySQL](https://img.shields.io/badge/MySQL-brightgreen)
 ![sk_postgresql](https://img.shields.io/badge/PostgreSQL-brightgreen)
 
-# Alguns Trabalhos Realizados
+# Alguns Trabalhos Realizados 👨‍💻
 [![Juliana_Nicolini](https://img.shields.io/website?label=Portf%C3%B3lio%20-%20Jornalista%20-&logo=WordPress&logoColor=pink&style=for-the-badge&up_color=pink&up_message=Juliana%20Nicolini&url=https%3A%2F%2Fjuliananicolini.jor.br%2F)](https://juliananicolini.jor.br/)
 
 [![Novos_Olhares](https://img.shields.io/website?label=website%20-%20Portal%20de%20Not%C3%ADcias%20-%20&logo=WordPress&logoColor=blue&style=for-the-badge&up_color=%232E64FE&up_message=Novos%20Olhares&url=https%3A%2F%2Fwww.novosolhares.com%2F)](https://www.novosolhares.com/)
