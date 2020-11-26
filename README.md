@@ -16,7 +16,7 @@ Rafael é um profissional responsável, ético, organizado e educado, com ótima
 
 Rafael em sua vida profissional tem como objetivo contribuir com suas habilidades, tendo compromisso, respeito e principalmente ética. Objetivando-se sempre o benefício do crescimento com base no que há de melhor.
 
-Fora do desenvolvimento, Rafael gosta de aprender novas tecnologias, ama viajar, conhecer lugares, pessoas e culturas diferentes.
+Fora do desenvolvimento, Rafael é amante dos estudos, gosta de aprender novas tecnologias e novas skills, ama viajar, conhecer lugares e paisagens, pessoas e culturas diferentes.
  
 # 💻 Tecnologias e Ferramentas
 ![sk_delphi](https://img.shields.io/badge/Delphi-brightgreen)
