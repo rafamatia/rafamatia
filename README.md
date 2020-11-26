@@ -8,13 +8,13 @@
 
 Rafael é formado desde 2019 em Bacharel em Ciência da Computação, e programador Delphi desde 2016.
 
-Rafael em sua vida profissional tem como objetivo contribuir com suas habilidades, tendo compromisso, respeito e principalmente ética. Objetivando-se sempre o benefício do crescimento com base no que há de melhor.
-
-Rafael é um profissional responsável, ético, organizado e educado, com ótima convivência em equipe. Procurando sempre desempenhar de maneira exemplar sobre todas as tarefas que forem propostas, sempre disposto a fazer o melhor, sem colocar interesses pessoais. Possui uma grande disposição, facilidade e interesse em apreender. E sua maior paixão é compartilhar conhecimento para todas as pessoas!
-
 Rafael como programador tem experiências com sistemas: ERP, Contábil e PCP. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e) e desenvolvimento de sites com WordPress.
 
 Rafael é atualmente membro de uma equipe de desenvolvimento de software, em uma software house na cidade de Maringá no estado do Paraná. Atualmente, Rafael mora em Mandaguari também no estado do Paraná.
+
+Rafael em sua vida profissional tem como objetivo contribuir com suas habilidades, tendo compromisso, respeito e principalmente ética. Objetivando-se sempre o benefício do crescimento com base no que há de melhor.
+
+Rafael é um profissional responsável, ético, organizado e educado, com ótima convivência em equipe. Procurando sempre desempenhar de maneira exemplar sobre todas as tarefas que forem propostas, sempre disposto a fazer o melhor, sem colocar interesses pessoais. Possui uma grande disposição, facilidade e interesse em apreender. E sua maior paixão é compartilhar conhecimento para todas as pessoas!
 
 Fora do desenvolvimento, Rafael é amante dos estudos, gosta de aprender novas tecnologias e novas skills, ama viajar, conhecer lugares, pessoas e culturas.
  
