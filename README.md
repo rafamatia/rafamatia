@@ -8,7 +8,7 @@
 
 Rafael é formado desde 2019 em Bacharel em Ciência da Computação, e programador Delphi desde 2016.
 
-Como programador Rafael, tem experiências com sistemas: ERP, Contábil e PCP. Além de experiências com geração de boletos e emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e).
+Rafael como programador tem experiências com sistemas: ERP, Contábil e PCP. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e) e desenvolvimento de sites com WordPress.
 
 Rafael é atualmente membro de uma equipe de desenvolvimento de software, em uma software house na cidade de Maringá no estado do Paraná. Atualmente, Rafael mora em Mandaguari também no estado do Paraná.
 
