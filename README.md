@@ -10,7 +10,7 @@ Rafael é formado desde 2019 em Bacharel em Ciência da Computação, e programa
 
 Rafael como programador tem experiências com sistemas: ERP, Contábil e PCP. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e) e desenvolvimento de sites com WordPress.
 
-Rafael é atualmente membro de uma equipe de desenvolvimento de software, na Softplan da cidade de Florianópolis, capital de SC. Atualmente, Rafael mora em Mandaguari-PR.
+Rafael atualmente é desenvolvedor Delphi, na equipe de Unidade de Justiça - UNJ na Softplan da cidade de Florianópolis, capital de SC. Atualmente, Rafael mora em Mandaguari-PR.
 
 Rafael em sua vida profissional tem como objetivo contribuir com suas habilidades, tendo compromisso, respeito e principalmente ética. Objetivando-se sempre o benefício do crescimento com base no que há de melhor.
 
