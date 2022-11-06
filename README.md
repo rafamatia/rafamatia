@@ -7,16 +7,16 @@
 [![Google_Drive_Curriculum](https://img.shields.io/website?label=Google%20Drive&logo=Google%20Drive&logoColor=white&style=flat-square&up_color=%23FF8000&up_message=Curriculum&url=https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)](https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)
 
 🧑‍🎓Bacharel em Ciência da Computação.
-🇧🇷 morador de Maringá no estado do Paraná.
+🏡Morador de Maringá no estado do Paraná.
 
-Atualmente tenho a responsabilidade de Gerente de Projetos e Coordenador de Desenvolvimento na SG Sistemas.
+👨🏻‍💻Atualmente tenho a responsabilidade de Gerente de Projetos e Coordenador de Desenvolvimento na SG Sistemas.
 
-Como Desenvolvedor Delphi tenho experiências com sistemas: ERP, Contábil, PCP e Ministérios Públicos. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), e geração de arquivos do SPED Contábil e Fiscal.
+🧑‍💻Como Desenvolvedor Delphi tenho experiências com sistemas: ERP, Contábil, PCP e Ministérios Públicos. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), e geração de arquivos do SPED Contábil e Fiscal.
 
-Como Desenvolvedor WordPress tenho experiências com: WooCommerce e Elementor, além de conhecimentos em instalação e configuração de plugins de pagamento: PayPal,
+🧑‍💻Como Desenvolvedor WordPress tenho experiências com: WooCommerce e Elementor, além de conhecimentos em instalação e configuração de plugins de pagamento: PayPal,
 PagSeguro e MercadoPago, e plugins de envio: Correios e Melhor Envio.
 
-Obtenho experiências com configuração de servidores de hospedagem e registro/renovação de dominíos de websites.
+💻 Obtenho experiências com configuração de servidores de hospedagem e registro/renovação de dominíos de websites.
 
 Me vejo como um profissional responsável, ético, organizado e educado, com ótima convivência em equipe. Procurando sempre desempenhar de maneira exemplar sobre todas as tarefas que forem propostas, sempre disposto a fazer o melhor, sem colocar interesses pessoais. Possui uma grande disposição, facilidade e interesse em apreender. E sua maior paixão é compartilhar conhecimento para todas as pessoas!
 
