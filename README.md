@@ -8,7 +8,7 @@
 
 Sou Bacharel em Ciência da Computação, morador de Maringá no estado do Paraná.
 
-Atualmente tenho atuado como Gerente de Projetos e Coordenador de Desenvolvimento na SG Sistemas.
+Atualmente tenho a responsabilidade de Gerente de Projetos e Coordenador de Desenvolvimento na SG Sistemas.
 
 Como Desenvolvedor Delphi tenho experiências com sistemas: ERP, Contábil, PCP e Ministérios Públicos. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), e geração de arquivos do SPED Contábil e Fiscal.
 
