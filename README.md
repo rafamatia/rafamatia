@@ -6,18 +6,20 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544999267912&text=Ol%C3%A1%20Rafael%2C%20Tudo%20bem%3F%20Me%20chamo)](https://api.whatsapp.com/send?phone=5544999267912&text=Ol%C3%A1%20Rafael%2C%20Tudo%20bem%3F%20Me%20chamo)
 [![Google_Drive_Curriculum](https://img.shields.io/website?label=Google%20Drive&logo=Google%20Drive&logoColor=white&style=flat-square&up_color=%23FF8000&up_message=Curriculum&url=https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)](https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)
 
-Rafael é formado desde 2019 em Bacharel em Ciência da Computação, e programador Delphi desde 2016, morador de Mandaguari no estado do Paraná.
+Sou Bacharel em Ciência da Computação, morador de Maringá no estado do Paraná.
 
-Rafael como Desenvolvedor Delphi tem experiências com sistemas: ERP, Contábil, PCP e Ministérios Públicos. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), e geração de arquivos do SPED Contábil e Fiscal.
+Atualmente tenho atuado como Gerente de Projetos e Coordenador de Desenvolvimento na SG Sistemas.
 
-Rafael como Desenvolvedor WordPress tem experiências com: WooCommerce e Elementor, além de conhecimentos em instalação e configuração de plugins de pagamento: PayPal,
+Como Desenvolvedor Delphi tenho experiências com sistemas: ERP, Contábil, PCP e Ministérios Públicos. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), e geração de arquivos do SPED Contábil e Fiscal.
+
+Como Desenvolvedor WordPress tenho experiências com: WooCommerce e Elementor, além de conhecimentos em instalação e configuração de plugins de pagamento: PayPal,
 PagSeguro e MercadoPago, e plugins de envio: Correios e Melhor Envio.
 
-Rafael tem experiências com configuração de servidores de hospedagem e registro/renovação de dominíos de websites.
+Obtenho experiências com configuração de servidores de hospedagem e registro/renovação de dominíos de websites.
+
+Me vejo como um profissional responsável, ético, organizado e educado, com ótima convivência em equipe. Procurando sempre desempenhar de maneira exemplar sobre todas as tarefas que forem propostas, sempre disposto a fazer o melhor, sem colocar interesses pessoais. Possui uma grande disposição, facilidade e interesse em apreender. E sua maior paixão é compartilhar conhecimento para todas as pessoas!
 
 Rafael em sua vida profissional tem como objetivo contribuir com suas habilidades, tendo compromisso, respeito e principalmente ética. Objetivando-se sempre o benefício do crescimento com base no que há de melhor.
-
-Rafael é um profissional responsável, ético, organizado e educado, com ótima convivência em equipe. Procurando sempre desempenhar de maneira exemplar sobre todas as tarefas que forem propostas, sempre disposto a fazer o melhor, sem colocar interesses pessoais. Possui uma grande disposição, facilidade e interesse em apreender. E sua maior paixão é compartilhar conhecimento para todas as pessoas!
 
 Fora do desenvolvimento, Rafael é amante dos estudos, gosta de aprender novas tecnologias e novas skills, ama viajar, conhecer lugares, pessoas e culturas.
  
