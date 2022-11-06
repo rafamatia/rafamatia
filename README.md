@@ -6,7 +6,8 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544999267912&text=Ol%C3%A1%20Rafael%2C%20Tudo%20bem%3F%20Me%20chamo)](https://api.whatsapp.com/send?phone=5544999267912&text=Ol%C3%A1%20Rafael%2C%20Tudo%20bem%3F%20Me%20chamo)
 [![Google_Drive_Curriculum](https://img.shields.io/website?label=Google%20Drive&logo=Google%20Drive&logoColor=white&style=flat-square&up_color=%23FF8000&up_message=Curriculum&url=https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)](https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)
 
-Sou Bacharel em Ciência da Computação, morador de Maringá no estado do Paraná.
+🧑‍🎓Bacharel em Ciência da Computação.
+🇧🇷 morador de Maringá no estado do Paraná.
 
 Atualmente tenho a responsabilidade de Gerente de Projetos e Coordenador de Desenvolvimento na SG Sistemas.
 
