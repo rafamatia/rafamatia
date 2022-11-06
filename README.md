@@ -7,6 +7,7 @@
 [![Google_Drive_Curriculum](https://img.shields.io/website?label=Google%20Drive&logo=Google%20Drive&logoColor=white&style=flat-square&up_color=%23FF8000&up_message=Curriculum&url=https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)](https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)
 
 🧑‍🎓Bacharel em Ciência da Computação.
+
 🏡Morador de Maringá no estado do Paraná.
 
 👨🏻‍💻Atualmente tenho a responsabilidade de Gerente de Projetos e Coordenador de Desenvolvimento na SG Sistemas.
