@@ -33,6 +33,9 @@ Fora do desenvolvimento, Rafael é amante dos estudos, gosta de aprender novas t
 ![sk_firebird](https://img.shields.io/badge/Firebird-brightgreen)
 ![sk_MySQL](https://img.shields.io/badge/MySQL-brightgreen)
 ![sk_postgresql](https://img.shields.io/badge/PostgreSQL-brightgreen)
+![sk_woocommerce](https://img.shields.io/badge/PostgreSQL-brightgreen)
+![sk_elementor](https://img.shields.io/badge/PostgreSQL-brightgreen)
+![sk_canva](https://img.shields.io/badge/PostgreSQL-brightgreen)
 
 # 👨‍💻 Alguns Trabalhos Realizados
 [![Juliana_Nicolini](https://img.shields.io/website?label=Portf%C3%B3lio%20-%20Jornalista%20-&logo=WordPress&logoColor=pink&style=for-the-badge&up_color=pink&up_message=Juliana%20Nicolini&url=https%3A%2F%2Fjuliananicolini.jor.br%2F)](https://juliananicolini.jor.br/) - Descontinuado por seu idealizador
