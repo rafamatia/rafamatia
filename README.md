@@ -8,7 +8,7 @@
 
 🧑‍🎓Bacharel em Ciência da Computação.
 
-🏡Morador de Maringá no estado do Paraná.💛💚💙
+🏡Morador de Floresta no estado do Paraná.💛💚💙
 
 👨🏻‍💻Atualmente tenho a responsabilidade de Gerente de Projetos e Coordenador de Desenvolvimento na SG Sistemas.
 
