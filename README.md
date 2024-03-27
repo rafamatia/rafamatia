@@ -27,12 +27,12 @@ Fora do desenvolvimento, Rafael é amante dos estudos, gosta de aprender novas t
  
 # 💻 Tecnologias e Ferramentas
 ![sk_delphi](https://img.shields.io/badge/Delphi-brightgreen)
-![sk_wordpress](https://img.shields.io/badge/WordPress-brightgreen)
 ![sk_fastreport](https://img.shields.io/badge/FastReport-brightgreen)
 ![sk_reportbuilder](https://img.shields.io/badge/ReportBuilder-brightgreen)
 ![sk_firebird](https://img.shields.io/badge/Firebird-brightgreen)
 ![sk_MySQL](https://img.shields.io/badge/MySQL-brightgreen)
 ![sk_postgresql](https://img.shields.io/badge/PostgreSQL-brightgreen)
+![sk_wordpress](https://img.shields.io/badge/WordPress-brightgreen)
 ![sk_woocommerce](https://img.shields.io/badge/WooCommerce-brightgreen)
 ![sk_elementor](https://img.shields.io/badge/Elementor-brightgreen)
 ![sk_canva](https://img.shields.io/badge/Canva-brightgreen)
