@@ -46,5 +46,7 @@ Fora do desenvolvimento, Rafael é amante dos estudos, gosta de aprender novas t
 
 ### Gerenciamento de Redes Sociais e Marketing Digital
 D'Griff Magazine - @dgriff_magazine [https://www.instagram.com/dgriff_magazine/]
+
 Bazar São Paulo - @bazarsaopauloo [https://www.instagram.com/bazarsaopauloo/]
+
 Express Shop - @lojaexpressshop [https://www.instagram.com/lojaexpressshop/]
