@@ -6,11 +6,14 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544999267912&text=Ol%C3%A1%20Rafael%2C%20Tudo%20bem%3F%20Me%20chamo)](https://api.whatsapp.com/send?phone=5544999267912&text=Ol%C3%A1%20Rafael%2C%20Tudo%20bem%3F%20Me%20chamo)
 [![Google_Drive_Curriculum](https://img.shields.io/website?label=Google%20Drive&logo=Google%20Drive&logoColor=white&style=flat-square&up_color=%23FF8000&up_message=Curriculum&url=https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)](https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)
 
-🧑‍🎓Bacharel em Ciência da Computação.
+👨‍💻| Desenvolvedor Delphi na HIPCOM ERP
+🎓| Bacharel em Ciência da Computação pela Fafiman
+👨🏻‍🎓| MBA em Full-Stack pela Rocketseat
+👨🏻‍🎓| MBA em Adm de BD pela Faculdade VINCIT
+👨🏻‍🎓| Tecnólogo em Tecnologia em Agrocomputação pela Uniasselvi
 
 🏡Morador de Floresta no estado do Paraná.💛💚💙
 
-👨🏻‍💻Atualmente tenho a responsabilidade de Gerente de Projetos e Coordenador de Desenvolvimento na SG Sistemas.
 
 🧑‍💻Como Desenvolvedor Delphi tenho experiências com sistemas: ERP, Contábil, PCP e Ministérios Públicos. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), e geração de arquivos do SPED Contábil e Fiscal.
 
@@ -21,9 +24,9 @@ PagSeguro e MercadoPago, e plugins de envio: Correios e Melhor Envio.
 
 Me vejo como um profissional responsável, ético, organizado e educado, com ótima convivência em equipe. Procurando sempre desempenhar de maneira exemplar sobre todas as tarefas que forem propostas, sempre disposto a fazer o melhor, sem colocar interesses pessoais. Possui uma grande disposição, facilidade e interesse em apreender. E sua maior paixão é compartilhar conhecimento para todas as pessoas!
 
-Rafael em sua vida profissional tem como objetivo contribuir com suas habilidades, tendo compromisso, respeito e principalmente ética. Objetivando-se sempre o benefício do crescimento com base no que há de melhor.
+Em minha vida profissional tenho como objetivo contribuir com minhas habilidades, tendo compromisso, respeito e principalmente ética. Objetivando-se sempre o benefício do crescimento com base no que há de melhor.
 
-Fora do desenvolvimento, Rafael é amante dos estudos, gosta de aprender novas tecnologias e novas skills, ama viajar, conhecer lugares, pessoas e culturas.
+Fora do desenvolvimento, sou amante dos estudos, gosto de aprender novas tecnologias e novas skills, amo viajar, conhecer novos lugares, pessoas e culturas.
  
 # 💻 Tecnologias e Ferramentas
 ![sk_delphi](https://img.shields.io/badge/Delphi-brightgreen)
