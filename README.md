@@ -19,18 +19,13 @@
 🏡Morador de Floresta no estado do Paraná.💛💚💙
 
 
-🧑‍💻Como Desenvolvedor Delphi tenho experiências com sistemas: ERP, Contábil, PCP e Ministérios Públicos. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), e geração de arquivos do SPED Contábil e Fiscal.
+# 🧑‍💻 Analista Desenvolvedor Delphi
+🧑‍💻 Possuo experiências com sistemas: ERP, Contábil, PCP e Ministérios Públicos. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), e geração de arquivos do SPED Contábil e Fiscal.
 
-🧑‍💻Como Desenvolvedor WordPress tenho experiências com: WooCommerce e Elementor, além de conhecimentos em instalação e configuração de plugins de pagamento: PayPal,
-PagSeguro e MercadoPago, e plugins de envio: Correios e Melhor Envio.
-
+# 🧑‍💻 Desenvolvedor WordPress Júnior
+🧑‍💻 Possuo experiências com: WooCommerce e Elementor, além de conhecimentos em instalação e configuração de plugins de pagamento: PayPal, PagSeguro e MercadoPago, e plugins de envio: Correios e Melhor Envio.
 💻 Obtenho experiências com configuração de servidores de hospedagem e registro/renovação de dominíos de websites.
 
-Me vejo como um profissional responsável, ético, organizado e educado, com ótima convivência em equipe. Procurando sempre desempenhar de maneira exemplar sobre todas as tarefas que forem propostas, sempre disposto a fazer o melhor, sem colocar interesses pessoais. Possui uma grande disposição, facilidade e interesse em apreender. E sua maior paixão é compartilhar conhecimento para todas as pessoas!
-
-Em minha vida profissional tenho como objetivo contribuir com minhas habilidades, tendo compromisso, respeito e principalmente ética. Objetivando-se sempre o benefício do crescimento com base no que há de melhor.
-
-Fora do desenvolvimento, sou amante dos estudos, gosto de aprender novas tecnologias e novas skills, amo viajar, conhecer novos lugares, pessoas e culturas.
  
 # 💻 Tecnologias e Ferramentas
 ![sk_delphi](https://img.shields.io/badge/Delphi-brightgreen)
@@ -43,10 +38,3 @@ Fora do desenvolvimento, sou amante dos estudos, gosto de aprender novas tecnolo
 ![sk_woocommerce](https://img.shields.io/badge/WooCommerce-brightgreen)
 ![sk_elementor](https://img.shields.io/badge/Elementor-brightgreen)
 ![sk_canva](https://img.shields.io/badge/Canva-brightgreen)
-
-# 👨‍💻 Alguns Trabalhos Realizados
-[![Juliana_Nicolini](https://img.shields.io/website?label=Portf%C3%B3lio%20-%20Jornalista%20-&logo=WordPress&logoColor=pink&style=for-the-badge&up_color=pink&up_message=Juliana%20Nicolini&url=https%3A%2F%2Fjuliananicolini.jor.br%2F)](https://juliananicolini.jor.br/) - Descontinuado por seu idealizador
-
-[![Novos_Olhares](https://img.shields.io/website?label=website%20-%20Portal%20de%20Not%C3%ADcias%20-%20&logo=WordPress&logoColor=blue&style=for-the-badge&up_color=%232E64FE&up_message=Novos%20Olhares&url=https%3A%2F%2Fwww.novosolhares.com%2F)](https://www.novosolhares.com/)
-
-[![Plast Co LTDA](https://img.shields.io/website?label=website%20-%20Ecommerce%20-%20&logo=WordPress&logoColor=blue&style=for-the-badge&up_color=%232E64FE&up_message=PlastCo%20Loja%20Virtual&url=https%3A%2F%2Fwww.plast-co.com%2F)](https://www.plast-co.com/)
