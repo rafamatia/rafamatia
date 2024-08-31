@@ -7,9 +7,13 @@
 [![Google_Drive_Curriculum](https://img.shields.io/website?label=Google%20Drive&logo=Google%20Drive&logoColor=white&style=flat-square&up_color=%23FF8000&up_message=Curriculum&url=https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)](https://drive.google.com/file/d/1-N-G_dl02duTvSmkfQ6RgcmZS133YIRQ/view?usp=sharing)
 
 👨‍💻| Desenvolvedor Delphi na HIPCOM ERP
+
 🎓| Bacharel em Ciência da Computação pela Fafiman
+
 👨🏻‍🎓| MBA em Full-Stack pela Rocketseat
+
 👨🏻‍🎓| MBA em Adm de BD pela Faculdade VINCIT
+
 👨🏻‍🎓| Tecnólogo em Tecnologia em Agrocomputação pela Uniasselvi
 
 🏡Morador de Floresta no estado do Paraná.💛💚💙
