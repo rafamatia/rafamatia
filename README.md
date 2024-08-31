@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafamatiateles/)](https://www.linkedin.com/in/rafamatiateles/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelmatiateles@gmail.com)](mailto:rafaelmatiateles@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544999267912&text=Ol%C3%A1%20Rafael)](https://api.whatsapp.com/send?phone=5544999267912&text=Ol%C3%A1%20Rafael)
-[![Google_Drive_Curriculum](https://img.shields.io/website?label=Google%20Drive&logo=Google%20Drive&logoColor=white&style=flat-square&up_color=%23FF8000&up_message=Curriculum&url=https://drive.google.com/file/d/1x67MOM2htsMAZAnZo81WfqjqUU6BnZYx/view?usp=sharing)](https://drive.google.com/file/d/1x67MOM2htsMAZAnZo81WfqjqUU6BnZYx/view?usp=sharing)
+[![Google_Drive_Curriculum](https://img.shields.io/website?label=Google%20Drive&logo=Google%20Drive&logoColor=white&style=flat-square&up_color=%23FF8000&up_message=Curriculum&url=https://drive.google.com/file/d/1oLMHllOOg1fcA2pF8JkSHC79n2GzDFDJ/view?usp=sharing)](https://drive.google.com/file/d/1oLMHllOOg1fcA2pF8JkSHC79n2GzDFDJ/view?usp=sharing)
 
 👨‍💻| Desenvolvedor Delphi na HIPCOM ERP
 
