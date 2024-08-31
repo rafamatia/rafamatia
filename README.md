@@ -50,10 +50,3 @@ Fora do desenvolvimento, sou amante dos estudos, gosto de aprender novas tecnolo
 [![Novos_Olhares](https://img.shields.io/website?label=website%20-%20Portal%20de%20Not%C3%ADcias%20-%20&logo=WordPress&logoColor=blue&style=for-the-badge&up_color=%232E64FE&up_message=Novos%20Olhares&url=https%3A%2F%2Fwww.novosolhares.com%2F)](https://www.novosolhares.com/)
 
 [![Plast Co LTDA](https://img.shields.io/website?label=website%20-%20Ecommerce%20-%20&logo=WordPress&logoColor=blue&style=for-the-badge&up_color=%232E64FE&up_message=PlastCo%20Loja%20Virtual&url=https%3A%2F%2Fwww.plast-co.com%2F)](https://www.plast-co.com/)
-
-### Gerenciamento de Redes Sociais e Marketing Digital
-D'Griff Magazine - @dgriff_magazine [https://www.instagram.com/dgriff_magazine/]
-
-Bazar São Paulo - @bazarsaopauloo [https://www.instagram.com/bazarsaopauloo/]
-
-Express Shop - @lojaexpressshop [https://www.instagram.com/lojaexpressshop/]
