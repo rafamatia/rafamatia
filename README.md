@@ -19,11 +19,14 @@
 🏡Morador de Floresta no estado do Paraná.💛💚💙
 
 
+
 # 🧑‍💻 Analista Desenvolvedor Delphi
 🧑‍💻 Possuo experiências com sistemas: ERP, Contábil, PCP e Ministérios Públicos. Além de experiências com geração de boletos, emissão de documentos fiscais eletrônicos (NF-e, NFS-e e NFC-e), e geração de arquivos do SPED Contábil e Fiscal.
 
+
 # 🧑‍💻 Desenvolvedor WordPress Júnior
 🧑‍💻 Possuo experiências com: WooCommerce e Elementor, além de conhecimentos em instalação e configuração de plugins de pagamento: PayPal, PagSeguro e MercadoPago, e plugins de envio: Correios e Melhor Envio.
+
 💻 Obtenho experiências com configuração de servidores de hospedagem e registro/renovação de dominíos de websites.
 
  
