@@ -18,7 +18,7 @@
 
 👨🏻‍🎓| Tecnólogo em Tecnologia em Agrocomputação pela Uniasselvi
 
-🏡| Morador da cidade de Floresta no estado do Paraná.💛💚💙
+🏡| Morador da cidade de Floresta no estado do Paraná 💛💚💙
 
 
 
